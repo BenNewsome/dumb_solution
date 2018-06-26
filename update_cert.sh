@@ -1,3 +1,4 @@
+#!/bin/bash
 # dumb_solution
 # a dumb solution to a stupid problem
 
